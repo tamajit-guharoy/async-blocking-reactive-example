@@ -1,0 +1,6 @@
+name: tamajit
+contact:
+    - mob: {{.Values.mob1}}
+      email: {{randNumeric 10}}
+    - mob:
+      email:
